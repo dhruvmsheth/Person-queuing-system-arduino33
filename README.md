@@ -3,7 +3,7 @@ This queuing system is designed on Tensorflow TinyML framework of person detetct
 
 **Labels in the Model trained:**
 
-```
+``` C
 #include "model_settings.h"
 
 const char* kCategoryLabels[kCategoryCount] = {
