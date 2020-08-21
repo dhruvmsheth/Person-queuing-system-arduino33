@@ -10,4 +10,5 @@ const char* kCategoryLabels[kCategoryCount] = {
     "unused",
     "person",
     "notperson",
-}; ```
+};
+ ```
