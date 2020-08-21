@@ -245,4 +245,4 @@ void RespondToDetection(tflite::ErrorReporter* error_reporter,
  ![alt text](https://hackster.imgix.net/uploads/attachments/1007722/arduino_ble_with_battery_bb_Wq6pNrk8fW.png?auto=compress%2Cformat&w=680&h=510&fit=max
 )
 
-![alt text](https://images.app.goo.gl/NMbJQB9H8XLY2MNP7)
+![alt text](https://github.com/dhruvsheth-ai/Person-queuing-system-arduino33/blob/master/Pinout-NANOsense_latest-1.jpg)
