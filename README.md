@@ -241,3 +241,6 @@ void RespondToDetection(tflite::ErrorReporter* error_reporter,
 #endif  // ARDUINO_EXCLUDE_CODE
  ```
  
+ ![Alt Text](https://hackster.imgix.net/uploads/attachments/1007726/person_detect_leu1ShNZyw.gif?auto=compress&gifq=35&w=900&h=675&fit=min&fm=mp4)
+
+
