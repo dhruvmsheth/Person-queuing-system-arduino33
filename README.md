@@ -1,4 +1,4 @@
-# Person-queuing-system-arduino33
+# Person-queuing-system-arduino33  // CC - Dhruv Sheth
 This queuing system is designed on Tensorflow TinyML framework of person detetction
 
 **Labels in the Model trained:**
@@ -241,6 +241,8 @@ void RespondToDetection(tflite::ErrorReporter* error_reporter,
 #endif  // ARDUINO_EXCLUDE_CODE
  ```
  
- ![Alt Text](https://hackster.imgix.net/uploads/attachments/1007726/person_detect_leu1ShNZyw.gif?auto=compress&gifq=35&w=900&h=675&fit=min&fm=mp4)
+ # Circuit Diagram
+ ![alt text](https://hackster.imgix.net/uploads/attachments/1007722/arduino_ble_with_battery_bb_Wq6pNrk8fW.png?auto=compress%2Cformat&w=680&h=510&fit=max
+)
 
 
