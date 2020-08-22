@@ -12,6 +12,12 @@ const char* kCategoryLabels[kCategoryCount] = {
     "notperson",
 };
  ```
+  
+ # Circuit Diagram
+ ![alt text](https://hackster.imgix.net/uploads/attachments/1007722/arduino_ble_with_battery_bb_Wq6pNrk8fW.png?auto=compress%2Cformat&w=680&h=510&fit=max
+)
+
+![alt text](https://github.com/dhruvsheth-ai/Person-queuing-system-arduino33/blob/master/Pinout-NANOsense_latest-1.jpg)
  
  
  **Controlling the Respond function in the code - output action performer deployed on Arduino 33 BLE Sense**
@@ -242,9 +248,4 @@ void RespondToDetection(tflite::ErrorReporter* error_reporter,
 
 #endif  // ARDUINO_EXCLUDE_CODE
  ```
- 
- # Circuit Diagram
- ![alt text](https://hackster.imgix.net/uploads/attachments/1007722/arduino_ble_with_battery_bb_Wq6pNrk8fW.png?auto=compress%2Cformat&w=680&h=510&fit=max
-)
 
-![alt text](https://github.com/dhruvsheth-ai/Person-queuing-system-arduino33/blob/master/Pinout-NANOsense_latest-1.jpg)
