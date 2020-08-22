@@ -14,8 +14,8 @@ const char* kCategoryLabels[kCategoryCount] = {
  ```
  
  
- **Controlling the Respond function in the code - output action performer deployed on Arduino 33 BLE Sense **
-** Works when one enters the mall. **
+ **Controlling the Respond function in the code - output action performer deployed on Arduino 33 BLE Sense**
+**Works when one enters the mall**
  
  # Note - There are two responders that have to be deployed on the Arduino 33 ble sense - one responder is during entry and the other during exit. Rest of the code remains the same
  ``` C
