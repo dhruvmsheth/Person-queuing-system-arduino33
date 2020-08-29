@@ -217,35 +217,6 @@ void RespondToDetection(tflite::ErrorReporter* error_reporter,
  myDisplay.print("Waiting 9min");
  delay(60000);
   myDisplay.setTextAlignment(PA_CENTER);
- myDisplay.print("Waiting 8min");
- delay(60000);
-  myDisplay.setTextAlignment(PA_CENTER);
- myDisplay.print("Waiting 7min");
- delay(60000);
-  myDisplay.setTextAlignment(PA_CENTER);
- myDisplay.print("Waiting 6min");
- delay(60000);
-  myDisplay.setTextAlignment(PA_CENTER);
- myDisplay.print("Waiting 5min");
- delay(60000);
-  myDisplay.setTextAlignment(PA_CENTER);
- myDisplay.print("Waiting 4min");
- delay(60000);
-  myDisplay.setTextAlignment(PA_CENTER);
- myDisplay.print("Waiting 3min");
- delay(60000);
-  myDisplay.setTextAlignment(PA_CENTER);
- myDisplay.print("Waiting 2min");
- delay(60000);
-  myDisplay.setTextAlignment(PA_CENTER);
- myDisplay.print("Waiting 1min");
- delay(60000);
-  myDisplay.setTextAlignment(PA_CENTER);
- myDisplay.print("Go ");
- delay(1000);
- // Finally they are allowed to go inside the store after 15min
-
-
-#endif  // ARDUINO_EXCLUDE_CODE
+ myDisplay
  ```
 
